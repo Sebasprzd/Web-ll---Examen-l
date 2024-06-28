@@ -1,0 +1,17 @@
+/* src/components/users/style/fondo.css */
+
+body {
+    background-image: url('../img/fondo-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
+  
+  html, body, #root {
+    height: 100%;
+  }
+  
